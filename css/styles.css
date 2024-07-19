@@ -86,16 +86,19 @@ p {
   .container {
     display: flex;
     margin: 0% auto;
-    padding: 0 15PX;
+    padding: 0 15px;
     width: 1158px;
     height: 72px;
   }
-  
 
+  .container-item {
+    padding: 24px 0;
+  }
+  
   .header-nav {
     display: flex;
     align-items: center;
-
+    
   }
   .menu {
     display: flex;
@@ -111,6 +114,16 @@ p {
     width: 261px;
     height: 24;
     padding-left: 347px; 
+  }
+
+  .contact-item {
+    display: flex;
+    width: 153px;
+      height: 24px;
+      top: 24px;
+      left: 940px;
+      gap: 0px;
+      opacity: 0px;
   }
 
   .logo {
@@ -130,8 +143,8 @@ p {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--navy-blue);
-    padding-left: 347px;
-    padding-top: 24px;
+    padding-left: 88px;
+      padding-top: 24px;
   }
   
   .header-link:hover,
@@ -273,7 +286,7 @@ p {
   }
   
   .footer {
-    padding: 100px 0>;
+    padding: 100px 0;
   }
   .footer-section {
     background-color: var(--navy-blue);
