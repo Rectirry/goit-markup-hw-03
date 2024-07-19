@@ -97,7 +97,7 @@ p {
     align-items: center;
 
   }
-  .menu-items {
+  .menu{
     display: flex;
     gap: 40px;
     padding: 24px 0;
