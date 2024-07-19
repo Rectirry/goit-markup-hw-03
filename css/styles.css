@@ -306,7 +306,9 @@ address {
   margin: auto;
 }
 
-.container {
+.f-container {
+  display: inline-block;
+  margin-bottom: 16px;
   width: 1440px;
   height: 312px;
 }
@@ -322,8 +324,6 @@ address {
 
 .p-container {
   max-width: 264px;
-  display: inline-block;
-  margin-bottom: 16px;
 }
 
 .design-logo {
