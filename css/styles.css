@@ -97,6 +97,12 @@ p {
     align-items: center;
 
   }
+  .menu {
+    display: flex;
+    gap: 40px;
+    
+
+  }
 
   .contact-box {
     width: 261px;
