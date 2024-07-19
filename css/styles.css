@@ -290,8 +290,6 @@ address {
 }
 
 .footer {
-  display: inline-block;
-  margin-bottom: 16px;
   padding: 100px 0;
   background-color: var(--navy-blue);
 }
@@ -324,6 +322,8 @@ address {
 
 .p-container {
   max-width: 264px;
+  display: inline-block;
+  margin-bottom: 16px;
 }
 
 .design-logo {
