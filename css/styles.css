@@ -307,8 +307,6 @@ address {
 }
 
 .f-container {
-  display: inline-block;
-  margin-bottom: 16px;
   width: 1440px;
   height: 312px;
 }
@@ -328,4 +326,6 @@ address {
 
 .design-logo {
   color: var(--cloud);
+  display: inline-block;
+    margin-bottom: 16px;
 }
