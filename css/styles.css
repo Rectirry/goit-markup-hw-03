@@ -82,16 +82,14 @@ p {
   }
 
   .header-container {
-    margin-left: 347px;
-    margin-top: 24px;
-    width: 1188px;
+    display: flex;
+    border-bottom:1px solid #e7e9fc;
+    margin: 0% auto;
+    padding: 0 15PX;
+    width: 1158px;
       height: 72px;
   }
   
-
-  .container-item{
-   display: flex;
-  }
 
   .contact-box {
     width: 261px;
