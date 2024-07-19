@@ -97,11 +97,13 @@ p {
     align-items: center;
 
   }
-  .menu{
+  .menu {
+    padding: 24px 0;
+  }
+  .menu-items{
     display: flex;
     gap: 40px;
-    padding: 24px 0;
-
+  
   }
 
   .contact-box {
