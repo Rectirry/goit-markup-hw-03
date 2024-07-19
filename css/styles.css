@@ -90,6 +90,11 @@ p {
       height: 72px;
   }
   
+  .header-nav {
+    display: flex;
+    align-items: center;
+
+  }
 
   .contact-box {
     width: 261px;
