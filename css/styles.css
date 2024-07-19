@@ -101,19 +101,17 @@ p {
   }
   .menu {
     display: flex;
-      padding: 24px 0;
-
+    gap: 40px;
   }
   .menu-items{
-    display: flex;
-    gap: 40px;
-  
+    padding: 24px 0 24px;
   }
 
   .contact-box {
-    width: 261px;
-    height: 24;
-    padding-left: 347px; 
+    display: flex;
+    gap: 40px;
+    padding: 24px;
+    margin-left: 332px; 
   }
 
   .contact-item {
