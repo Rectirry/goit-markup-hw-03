@@ -86,9 +86,9 @@ p {
   .container {
     display: flex;
     margin: 0% auto;
-    padding: 0 15px;
     width: 1158px;
     height: 72px;
+    padding: 0 15px;
   }
 
   .container-item {
