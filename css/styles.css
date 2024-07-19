@@ -98,6 +98,7 @@ p {
 
   }
   .menu {
+    display: flex;
     padding: 24px 0;
   }
   .menu-items{
@@ -271,8 +272,10 @@ p {
     color: var(--slate);
   }
   
+  .footer {
+    padding: 100px 0>;
+  }
   .footer-section {
-    padding: 100px 0;
     background-color: var(--navy-blue);
   }
 
