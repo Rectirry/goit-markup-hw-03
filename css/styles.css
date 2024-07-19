@@ -97,10 +97,9 @@ p {
     align-items: center;
 
   }
-  .menu {
+  .menu-items {
     display: flex;
     gap: 40px;
-    
 
   }
 
