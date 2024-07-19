@@ -311,6 +311,11 @@ address {
   height: 312px;
 }
 
+.logo {
+  display: inline-block;
+  margin-bottom: 16px;
+}
+
 .footer-paragraph {
   font-size: 16px;
   font-weight: 400;
@@ -326,6 +331,4 @@ address {
 
 .design-logo {
   color: var(--cloud);
-  display: inline-block;
-    margin-bottom: 16px;
 }
