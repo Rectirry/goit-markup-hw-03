@@ -272,6 +272,7 @@ p {
   }
   
   .footer-section {
+    padding: 100px 0;
     background-color: var(--navy-blue);
   }
 
