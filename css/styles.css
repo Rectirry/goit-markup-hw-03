@@ -300,9 +300,12 @@ p {
       margin: auto;
   }
 
-  .f-container {
+  .container {
+    display: inline-block;
     width: 1440px;
       height: 312px;
+      margin-bottom: 16px;
+      
   }
   
   .footer-paragraph {
