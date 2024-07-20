@@ -95,8 +95,14 @@ ul {
 .header-container {
   display: flex;
   margin: 0 auto;
-  
+
   }
+
+.header-container-two {
+  width: 1158px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
 
 .header-nav {
   display: flex;
@@ -132,6 +138,8 @@ ul {
   text-transform: uppercase;
   color: var(--iris);
   margin-right: 76px;
+  padding-top: 24px;
+  padding-left: 115px;
 }
 
 .header-link {
