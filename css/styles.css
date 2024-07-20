@@ -109,7 +109,7 @@ ul {
   display: flex;
   align-items: center;
 }
-.menu {
+.link-menu {
   display: flex;
   gap: 40px;
 }
@@ -120,7 +120,7 @@ ul {
 .contact-box {
   display: flex;
   gap: 40px;
-  padding: 24px;
+  padding: 24px 0;
   margin-left: 332px;
 }
 
@@ -149,7 +149,7 @@ ul {
   letter-spacing: 0.02em;
   color: var(--navy-blue);
   padding: 24px 0;
-  padding-left: 88px;
+  padding-left: 40px;
 }
 
 .header-link:hover,
