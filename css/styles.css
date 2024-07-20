@@ -266,15 +266,18 @@ address {
   color: var(--navy-blue);
 }
 
-.portofolio-container {
-  width: 1128px;
-  height: 1000px;
-  top: 1868px;
-  left: 156px;
-  gap: 0px;
-  border: 1px 0px 0px 0px;
-  opacity: 0px;
+.section4-container {
   margin: auto;
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.po-container {
+
+}
+
+.title-container {
+  margin-bottom: 72px;
 }
 
 .portfolio-list-title {
