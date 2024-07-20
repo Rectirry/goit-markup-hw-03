@@ -91,7 +91,7 @@ ul {
 .header {
   border-bottom: 1px solid #e7e9fc;
 }
-.container {
+.header-container {
   display: flex;
   margin: 0 auto;
   width: 1440px;
@@ -101,8 +101,10 @@ ul {
     opacity: 0px;
   }
 
-.container-item {
-  padding: 24px;
+.header-container-two {
+  width: 1158px;
+  padding: 0 15px;
+  margin: 0 auto;
 }
 
 .header-nav {
@@ -114,7 +116,7 @@ ul {
   gap: 40px;
 }
 .menu-items {
-  padding: 24px 0 24px;
+  padding: 24px 0;
 }
 
 .contact-box {
@@ -317,11 +319,30 @@ address {
       opacity: 0px;
 }
 
+.div-meditation-box {
+  padding: 32px 16px;
+    border: 1px solid #e7e9fc;
+    border-top: none;
+    margin-bottom: 8px;
+    width: 360px;
+      height: 420px;
+      top: 1980px;
+      left: 924px;
+      gap: 0px;
+      opacity: 0px;
+}
+
 .div-taxi-box {
   padding: 32px 16px;
     border: 1px solid #e7e9fc;
     border-top: none;
     margin-bottom: 8px;
+    width: 360px;
+      height: 420px;
+      top: 2448px;
+      left: 156px;
+      gap: 0px;
+      opacity: 0px;
 }
 
 .div-screen-box {
@@ -329,6 +350,13 @@ address {
     border: 1px solid #e7e9fc;
     border-top: none;
     margin-bottom: 8px;
+    width: 360px;
+      height: 420px;
+      top: 2448px;
+      left: 540px;
+      gap: 0px;
+      opacity: 0px;
+
 }
 
 .div-online-box {
@@ -336,7 +364,14 @@ address {
     border: 1px solid #e7e9fc;
     border-top: none;
     margin-bottom: 8px;
+    width: 360px;
+      height: 420px;
+      top: 2448px;
+      left: 924px;
+      gap: 0px;
+      opacity: 0px;
 }
+
 
 .portfolio-list-title {
   font-weight: 500;
