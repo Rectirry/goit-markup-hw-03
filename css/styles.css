@@ -88,6 +88,13 @@ a {
 ul {
   list-style-type: none;
 }
+
+.container {
+  width: 1158px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
 .header {
   border-bottom: 1px solid #e7e9fc;
 }
@@ -99,7 +106,7 @@ ul {
 
   }
 
-.header-container-two {
+.container {
   width: 1158px;
   margin: 0 auto;
   padding: 0 15px;
@@ -182,12 +189,8 @@ address {
   padding: 188px 0;
 }
 
-.div-hero {
-
-}
-
 .hero-title-box {
-  max-width: 496px;
+  smax-width: 496px;
 
 }
 
@@ -284,10 +287,6 @@ address {
 .section-four-container {
   padding-top: 120px;
   padding-bottom: 120px;
-}
-
-.po-container {
-
 }
 
 .title-container {
@@ -415,10 +414,6 @@ address {
   gap: 0px;
   opacity: 0px;
   margin: auto;
-}
-
-.f-container {
-
 }
 
 .logo {
