@@ -267,7 +267,6 @@ address {
 }
 
 .section-four-container {
-  margin: auto;
   padding-top: 120px;
   padding-bottom: 120px;
 }
@@ -296,6 +295,12 @@ address {
   border: 1px solid #e7e9fc;
   border-top: none;
   margin-bottom: 8px;
+  width: 360px;
+    height: 420px;
+    top: 1980px;
+    left: 156px;
+    gap: 0px;
+    opacity: 0px;
 }
 
 .div-cashless-box {
@@ -303,6 +308,13 @@ address {
     border: 1px solid #e7e9fc;
     border-top: none;
     margin-bottom: 8px;
+    width: 360px;
+      height: 420px;
+      top: 1980px;
+      left: 540px;
+      gap: 0px;
+      border: 1px 0px 0px 0px;
+      opacity: 0px;
 }
 
 .div-taxi-box {
