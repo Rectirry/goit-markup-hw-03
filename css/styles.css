@@ -92,33 +92,11 @@ ul {
   border-bottom: 1px solid #e7e9fc;
 }
 
-.header-two {
-  border-bottom: 1px solid #e7e9fc;
-  width: 1440px;
-    height: 72px;
-    gap: 0px;
-    opacity: 0px;
-}
-
 .header-container {
   display: flex;
   margin: 0 auto;
-  width: 1440px;
-    height: 72px;
-    gap: 0px;
-    border: 1px 0px 0px 0px;
-    opacity: 0px;
+  
   }
-
-.header-container-two {
-  display: flex;
-    margin: 0 auto;
-    width: 1440px;
-    height: 72px;
-    gap: 0px;
-    border: 1px 0px 0px 0px;
-    opacity: 0px;
-}
 
 .header-nav {
   display: flex;
