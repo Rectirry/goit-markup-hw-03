@@ -280,6 +280,13 @@ address {
   margin-bottom: 72px;
 }
 
+.li-container {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 24px;
+  row-gap: 48px;
+}
+
 .portfolio-list-title {
   font-weight: 500;
   font-size: 20px;
