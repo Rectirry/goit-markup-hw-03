@@ -127,8 +127,8 @@ ul {
 }
 
 .contact-item {
+  display: flex;
   font-style: normal;
-    display: flex;
     gap: 40px;
 }
 
