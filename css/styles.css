@@ -240,6 +240,7 @@ max-width: 496px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--navy-blue);
+  margin-bottom: 8px;
 }
 
 .quality-list_description {
@@ -258,14 +259,14 @@ max-width: 496px;
 
 }
 
-.squality-list-box {
+.quality-list-box {
   display: flex;
   gap: 24px;
   margin-right: 24px;
   width: calc((100% - 72px) / 4);
 }
 
-.squality-list-box-last {
+.quality-list-box-last {
   display: flex;
     gap: 24px;
     margin-right: 0;
