@@ -298,6 +298,10 @@ address {
   text-align: center;
 }
 
+.list-box {
+  display: flex;
+  gap: 24px;
+}
 
 .team-title {
   font-weight: 700;
@@ -308,11 +312,6 @@ address {
   text-transform: capitalize;
   text-align: center;
   color: var(--navy-blue);
-}
-
-.list-box {
-  display: flex;
-  gap: 24px;
 }
 
 .team-list-name {
@@ -365,7 +364,7 @@ address {
 
 .div-box {
   padding: 32px 16px;
-  border: 1px solid #e7e9fc;
+  border: 1px solid var(--cornflower);
   border-top: none;
 }
 
