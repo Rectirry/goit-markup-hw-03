@@ -266,13 +266,6 @@ max-width: 496px;
   width: calc((100% - 72px) / 4);
 }
 
-.quality-list-box-last {
-  display: flex;
-    gap: 24px;
-    margin-right: 0;
-    width: calc((100% - 72px) / 4);
-}
-
 .team {
   background-color: var(--cloud);
 }
