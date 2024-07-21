@@ -152,7 +152,10 @@ ul {
   text-transform: uppercase;
   color: var(--iris);
   margin-right: 76px;
-  padding-top: 24px;
+}
+
+.logo-box{
+  padding: 24px 0;
 }
 
 .header-link {
