@@ -249,7 +249,7 @@ address {
     gap: 24px;
 }
 
-.list-box {
+.benefits-list-item {
   width: calc((100% - 72px) / 4);
 }
 
