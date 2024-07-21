@@ -118,6 +118,7 @@ ul {
 }
 .link-menu {
   display: flex;
+  padding: 24px 0;
   gap: 40px;
 }
 .menu-items {
@@ -168,6 +169,14 @@ address {
   font-style: normal;
   display: flex;
   gap: 40px;
+}
+
+.address-list {
+  display: flex;
+  margin: auto;
+  gap: 40px;
+  padding: 24px;
+
 }
 
 .address-contact {
