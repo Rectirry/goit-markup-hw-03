@@ -383,12 +383,6 @@ address {
   border: 1px solid #e7e9fc;
   border-top: none;
   margin-bottom: 8px;
-  width: 360px;
-  height: 420px;
-  top: 1980px;
-  left: 156px;
-  gap: 0px;
-  opacity: 0px;
 }
 
 .div-cashless-box {
@@ -457,7 +451,7 @@ address {
   opacity: 0px;
 }
 
-.portfolio-list-title {
+.sportfolio-list-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -469,6 +463,15 @@ address {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--slate);
+}
+
+.item-title {
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+.item-role {
+  text-align: center;
 }
 
 /* Footer Section */
