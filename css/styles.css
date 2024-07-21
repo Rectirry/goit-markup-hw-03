@@ -248,6 +248,21 @@ max-width: 496px;
   color: var (--slate);
 }
 
+.quality-container {
+  padding: 120px 0;
+}
+
+.quality-box {
+  display: flex;
+  gap: 24px;
+
+}
+
+.quality-list-box {
+  width: calc((100% - 72px) / 4);
+  
+}
+
 .team {
   background-color: var(--cloud);
 }
