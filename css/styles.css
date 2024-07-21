@@ -123,7 +123,7 @@ ul {
 }
 .link-menu {
   display: flex;
-  padding: 24px 0;
+  spadding: 24px 0;
   gap: 40px;
 }
 .menu-items {
@@ -133,7 +133,6 @@ ul {
 .contact-box {
   display: flex;
   gap: 40px;
-  padding: 24px 0;
   margin-left: 332px;
 }
 
