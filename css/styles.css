@@ -282,11 +282,13 @@ address {
 }
 
 .quality-list-box {
-  sdisplay: flex;
   gap: 24px;
   margin-right: 24px;
-  width:calc((100% - 3 * 24px) / 4);
 }
+
+ .list-box {
+  width: calc((100% - 3 * 24px) / 4);
+ }
 
 /* Section 3 */
 
