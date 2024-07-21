@@ -240,19 +240,27 @@ address {
 
 /* Section 2 */
 
-.quality-list-title {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: var(--navy-blue);
+.benefits-page{
+  padding: 120px 0;
+}
+
+.benefits-list {
+  display: flex;
+    gap: 24px;
+}
+
+.list-box {
+  flex-basis: calc((100% - 3 * 24px) / 4);
+}
+
+.title-benefits {
   margin-bottom: 8px;
 }
 
 .quality-list_description {
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: var (--slate);
+  font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 .our-company-title-hidden {
@@ -268,20 +276,6 @@ address {
   overflow: hidden;
   
 }
-
-.quality-container {
-  padding: 120px 0;
-}
-
-.quality-box {
-  display: flex;
-  gap: 24px;
-
-}
-
- .list-box {
-  flex-basis: calc((100% - 3 * 24px) / 4);
- }
 
 /* Section 3 */
 
