@@ -91,8 +91,8 @@ ul {
 
 .container {
   width: 1158px;
-    padding: 0 15px;
-    margin: 0 auto;
+  padding: 0 15px;
+  margin: 0 auto;
 }
 .section {
   margin: 120px 0 120px 0;
@@ -108,8 +108,7 @@ ul {
   display: flex;
   margin: 0 auto;
   padding: 0 15px;
-
-  }
+}
 
 .container {
   width: 1158px;
@@ -139,7 +138,7 @@ ul {
 .contact-item {
   display: flex;
   font-style: normal;
-    gap: 40px;
+  gap: 40px;
 }
 
 .logo {
@@ -177,7 +176,6 @@ address {
   margin: auto;
   gap: 40px;
   padding: 24px;
-
 }
 
 .address-contact {
@@ -202,8 +200,7 @@ address {
 }
 
 .hero-title-box {
-max-width: 496px;
-
+  max-width: 496px;
 }
 
 .hero-title {
@@ -256,15 +253,15 @@ max-width: 496px;
 
 .our-company-title-hidden {
   position: absolute;
-    width: 1px;
-    height: 1px;
-    margin: -1px;
-    border: 0;
-    padding: 0;
-    white-space: nowrap;
-    clip-path: inset(100%);
-    clip: rect(0 0 0 0);
-    overflow: hidden;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
 }
 
 .quality-container {
@@ -274,14 +271,13 @@ max-width: 496px;
 .quality-box {
   display: flex;
   gap: 24px;
-
 }
 
 .quality-list-box {
   sdisplay: flex;
   gap: 24px;
   margin-right: 24px;
-flex-basis: calc((100% - 3 * 24px) / 4)
+  flex-basis: calc((100% - 3 * 24px) / 4);
 }
 
 /* Section 3 */
@@ -293,7 +289,6 @@ flex-basis: calc((100% - 3 * 24px) / 4)
 .team-container {
   margin: auto;
   padding: 120px 0;
-
 }
 
 .team-list-item {
@@ -371,7 +366,7 @@ flex-basis: calc((100% - 3 * 24px) / 4)
 }
 
 .bank-cashless-med-taxi-screen-online-box {
-  width: calc((100% - 48px) / 3); 
+  width: calc((100% - 48px) / 3);
 }
 
 .div-bank-box {
@@ -380,83 +375,80 @@ flex-basis: calc((100% - 3 * 24px) / 4)
   border-top: none;
   margin-bottom: 8px;
   width: 360px;
-    height: 420px;
-    top: 1980px;
-    left: 156px;
-    gap: 0px;
-    opacity: 0px;
+  height: 420px;
+  top: 1980px;
+  left: 156px;
+  gap: 0px;
+  opacity: 0px;
 }
 
 .div-cashless-box {
   padding: 32px 16px;
-    border: 1px solid #e7e9fc;
-    border-top: none;
-    margin-bottom: 8px;
-    width: 360px;
-      height: 420px;
-      top: 1980px;
-      left: 540px;
-      gap: 0px;
-      border: 1px 0px 0px 0px;
-      opacity: 0px;
+  border: 1px solid #e7e9fc;
+  border-top: none;
+  margin-bottom: 8px;
+  width: 360px;
+  height: 420px;
+  top: 1980px;
+  left: 540px;
+  gap: 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
 }
 
 .div-meditation-box {
   padding: 32px 16px;
-    border: 1px solid #e7e9fc;
-    border-top: none;
-    margin-bottom: 8px;
-    width: 360px;
-      height: 420px;
-      top: 1980px;
-      left: 924px;
-      gap: 0px;
-      opacity: 0px;
+  border: 1px solid #e7e9fc;
+  border-top: none;
+  margin-bottom: 8px;
+  width: 360px;
+  height: 420px;
+  top: 1980px;
+  left: 924px;
+  gap: 0px;
+  opacity: 0px;
 }
 
 .div-taxi-box {
   padding: 32px 16px;
-    border: 1px solid #e7e9fc;
-    border-top: none;
-    margin-bottom: 8px;
-    width: 360px;
-      height: 420px;
-      top: 2448px;
-      left: 156px;
-      gap: 0px;
-      opacity: 0px;
+  border: 1px solid #e7e9fc;
+  border-top: none;
+  margin-bottom: 8px;
+  width: 360px;
+  height: 420px;
+  top: 2448px;
+  left: 156px;
+  gap: 0px;
+  opacity: 0px;
 }
 
 .div-screen-box {
   padding: 32px 16px;
-    border: 1px solid #e7e9fc;
-    border-top: none;
-    margin-bottom: 8px;
-    width: 360px;
-      height: 420px;
-      top: 2448px;
-      left: 540px;
-      gap: 0px;
-      opacity: 0px;
-
+  border: 1px solid #e7e9fc;
+  border-top: none;
+  margin-bottom: 8px;
+  width: 360px;
+  height: 420px;
+  top: 2448px;
+  left: 540px;
+  gap: 0px;
+  opacity: 0px;
 }
 
 .div-online-box {
   padding: 32px 16px;
-    border: 1px solid #e7e9fc;
-    border-top: none;
-    margin-bottom: 8px;
-    width: 360px;
-      height: 420px;
-      top: 2448px;
-      left: 924px;
-      gap: 0px;
-      opacity: 0px;
+  border: 1px solid #e7e9fc;
+  border-top: none;
+  margin-bottom: 8px;
+  width: 360px;
+  height: 420px;
+  top: 2448px;
+  left: 924px;
+  gap: 0px;
+  opacity: 0px;
 }
 
-
 .portfolio-list-title {
-
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
