@@ -194,6 +194,8 @@ address {
 /* Section 1 */
 
 .hero {
+  justify-content: center;
+  margin: auto;
   width: 1440px;
   height: 600px;
   top: 72px;
