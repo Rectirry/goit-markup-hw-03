@@ -373,82 +373,15 @@ address {
   row-gap: 48px;
 }
 
-.bank-cashless-med-taxi-screen-online-box {
-  width: calc((100% - 48px)/3);
+.first-list-container {
+  width: calc((100% - 48px) / 3);
 }
-
 
 .div-box {
   padding: 32px 16px;
   border: 1px solid #e7e9fc;
   border-top: none;
   margin-bottom: 8px;
-}
-
-.div-cashless-box {
-  padding: 32px 16px;
-  border: 1px solid #e7e9fc;
-  border-top: none;
-  margin-bottom: 8px;
-  width: 360px;
-  height: 420px;
-  top: 1980px;
-  left: 540px;
-  gap: 0px;
-  border: 1px 0px 0px 0px;
-  opacity: 0px;
-}
-
-.div-meditation-box {
-  padding: 32px 16px;
-  border: 1px solid #e7e9fc;
-  border-top: none;
-  margin-bottom: 8px;
-  width: 360px;
-  height: 420px;
-  top: 1980px;
-  left: 924px;
-  gap: 0px;
-  opacity: 0px;
-}
-
-.div-taxi-box {
-  padding: 32px 16px;
-  border: 1px solid #e7e9fc;
-  border-top: none;
-  margin-bottom: 8px;
-  width: 360px;
-  height: 420px;
-  top: 2448px;
-  left: 156px;
-  gap: 0px;
-  opacity: 0px;
-}
-
-.div-screen-box {
-  padding: 32px 16px;
-  border: 1px solid #e7e9fc;
-  border-top: none;
-  margin-bottom: 8px;
-  width: 360px;
-  height: 420px;
-  top: 2448px;
-  left: 540px;
-  gap: 0px;
-  opacity: 0px;
-}
-
-.div-online-box {
-  padding: 32px 16px;
-  border: 1px solid #e7e9fc;
-  border-top: none;
-  margin-bottom: 8px;
-  width: 360px;
-  height: 420px;
-  top: 2448px;
-  left: 924px;
-  gap: 0px;
-  opacity: 0px;
 }
 
 .sportfolio-list-title {
