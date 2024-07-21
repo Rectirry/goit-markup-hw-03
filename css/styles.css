@@ -373,7 +373,7 @@ address {
   row-gap: 48px;
 }
 
-.first-list-container {
+.list-container {
   width: calc((100% - 48px) / 3);
 }
 
