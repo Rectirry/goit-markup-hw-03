@@ -240,12 +240,6 @@ address {
 
 /* Section 2 */
 
-ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
 .quality-list-title {
   font-weight: 500;
   font-size: 20px;
@@ -285,13 +279,8 @@ ul {
 
 }
 
-.quality-list-box {
-  gap: 24px;
-  margin-right: 24px;
-}
-
  .list-box {
-  width: calc((100% - 3 * 24px) / 4);
+  flex-basis: calc((100% - 3 * 24px) / 4);
  }
 
 /* Section 3 */
