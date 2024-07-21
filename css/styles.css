@@ -120,12 +120,30 @@ ul {
   display: flex;
   align-items: center;
 }
+
+.logo {
+  font-family: var(--second-family);
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--iris);
+  margin-right: 76px;
+}
+
 .link-menu {
   display: flex;
   padding: 24px 0;
   gap: 40px;
 }
+
+.link {
+  padding: 24px 0;
+}
+
 .menu-items {
+
   padding: 24px 0;
 }
 
@@ -139,17 +157,6 @@ ul {
   display: flex;
   font-style: normal;
   gap: 40px;
-}
-
-.logo {
-  font-family: var(--second-family);
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: var(--iris);
-  margin-right: 76px;
 }
 
 .header-link {
