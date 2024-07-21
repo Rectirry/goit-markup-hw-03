@@ -95,6 +95,8 @@ ul {
     margin: 0 auto;
 }
 
+/* Header Section */
+
 .header {
   border-bottom: 1px solid #e7e9fc;
 }
@@ -190,6 +192,8 @@ address {
   color: var(--ocean);
 }
 
+/* Section 1 */
+
 .hero {
   width: 1440px;
   height: 600px;
@@ -234,6 +238,8 @@ max-width: 496px;
   background-color: var(--ocean);
 }
 
+/* Section 2 */
+
 .quality-list-title {
   font-weight: 500;
   font-size: 20px;
@@ -264,8 +270,9 @@ max-width: 496px;
   gap: 24px;
   margin-right: 24px;
 flex-basis: calc((100% - 3 * 24px) / 4)
-flex-basis: calc((100% - 72px) / 4))
 }
+
+/* Section 3 */
 
 .team {
   background-color: var(--cloud);
@@ -273,6 +280,8 @@ flex-basis: calc((100% - 72px) / 4))
 
 .team-container {
   margin: auto;
+  padding: 120px 0;
+
 }
 
 .team-list-item {
@@ -280,12 +289,18 @@ flex-basis: calc((100% - 72px) / 4))
 }
 
 .team-title {
+  margin-bottom: 72px;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   text-align: center;
   color: var(--navy-blue);
+}
+
+.list-box {
+  display: flex;
+  gap: 24px;
 }
 
 .team-list-name {
@@ -297,12 +312,19 @@ flex-basis: calc((100% - 72px) / 4))
   color: var(--navy-blue);
 }
 
+.team-box {
+  width: calc((100% - 72px) / 4);
+  border-radius: 0px 0px 4px 4px;
+}
+
 .team-list-job {
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: center;
   color: var(--slate);
 }
+
+/* Section 4 */
 
 .portfolio-title {
   font-size: 36px;
@@ -427,6 +449,8 @@ flex-basis: calc((100% - 72px) / 4))
   letter-spacing: 0.02em;
   color: var(--slate);
 }
+
+/* Footer Section */
 
 .footer {
   padding: 100px 0;
