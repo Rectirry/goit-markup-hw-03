@@ -153,17 +153,13 @@ ul {
   margin-right: 76px;
 }
 
-.logo-box{
-  padding: 24px 0;
-}
-
 .header-link {
   margin: auto;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--navy-blue);
-  padding: 24px 0;
+  spadding: 24px 0;
 }
 
 .header-link:hover,
