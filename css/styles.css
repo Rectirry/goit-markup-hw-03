@@ -100,7 +100,7 @@ ul {
 
 /* Header Section */
 
-.header {
+.header-box {
   border-bottom: 1px solid #e7e9fc;
 }
 
@@ -134,15 +134,11 @@ ul {
 
 .link-menu {
   display: flex;
-  padding: 24px 0;
   gap: 40px;
 }
 
+.menu-items,
 .link {
-  padding: 24px 0;
-}
-
-.menu-items {
   padding: 24px 0;
 }
 
